@@ -1,3 +1,9 @@
+#Overview
+
+In the reddit-cnn-2.py file, we put the comments of Reddit users into a dataframe and "clean" the comments for our use. This dataframe contains the comment and the depression status of the commenter gathered from the survey. Next, we use Natural Language Processing and Tensorflow to train the model to detect depression. This creates the model we use.
+
+
+
 # DD-1
 
 
